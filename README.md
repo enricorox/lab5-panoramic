@@ -1,4 +1,4 @@
-# Lab 5 of computer Vision Course @ University of Padua
+# Lab 5 of Computer Vision course @ University of Padua
 Panoramic image generator
 ## How to compile
 >mkdir build && cd build  
