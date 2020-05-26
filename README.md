@@ -6,4 +6,4 @@ Panoramic image generator
 >make 
 
 ## Usage
->panoramic_generator <path> <pattern> <fov>
+>panoramic_generator \<path\> \<pattern\> \<fov\>
